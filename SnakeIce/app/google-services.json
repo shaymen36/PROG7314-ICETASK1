@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "858603123281",
+    "project_id": "snakeice-ed6bc",
+    "storage_bucket": "snakeice-ed6bc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:858603123281:android:b82ad492ac289e2924be70",
+        "android_client_info": {
+          "package_name": "com.st10312252.snakeice"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDezS34gPpIrf0QvuNQwpvtRTWgZJWiMHY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
